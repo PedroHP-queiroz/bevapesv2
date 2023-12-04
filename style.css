@@ -106,7 +106,13 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    
+}
+#ignv50 {
+    display: block;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    width: 200px;
 }
 /* btn cofig */
 .home-btn {
