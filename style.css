@@ -38,7 +38,9 @@ body {
 .logo span {
     color: var(--dark);
 }
-.navigation ul {
+.navigation ul
+ {
+    padding-top: 200px;
     display: flex;
     align-items: center;
     gap: 5rem;
