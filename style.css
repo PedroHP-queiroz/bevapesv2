@@ -108,7 +108,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    size: 125px;
+    size: 150px;
 }
 
 #ignv50 {
@@ -117,7 +117,6 @@ body {
     align-items: center;
     height: 60%;
     width: 100%;
-    padding-left: 13%;
 }
 
 /* btn cofig */
