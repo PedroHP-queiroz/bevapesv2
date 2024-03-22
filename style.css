@@ -131,6 +131,12 @@ body {
 .home-btn:hover {
     background: #000000;
 }
+
+#whats {
+    font-size: 1em;
+    margin-top: 20px;
+}
+
 .marcas-link h2 {
     font-family: 'Poppins', sans-serif;
     text-decoration: none;
@@ -192,13 +198,13 @@ body {
     .nav-menu {
         position: fixed;
         right: 100%;
-        top: 20px;
+        top: 5px;
         width: 100%;
         height: 100%;
         flex-direction: column;
         background: var(--white);
         gap: -10px;
-        transition: 0.3s;
+        transition: 0.6s;
     }
     .nav-item {
        margin: 16px 0; 
@@ -227,12 +233,24 @@ body {
         margin-top: -50px;
     }
 }
-
+/* marcas 2.html */
 #wakaLogo img {
     display: inline-block;
     align-items: center;
     width: 50%;
 }
+
+#ignLogo img {
+    width: 70%;
+    margin-top: 20px;
+}
+
+#blackSheepLogo img {
+    width: 50%;
+    margin-top: -20px;
+}
+
+
 
 
 
